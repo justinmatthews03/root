@@ -1,0 +1,46 @@
+@charset "utf-8";
+body{
+	background-color: saddlebrown;
+}
+h1{
+	text-align: center;
+	color: aliceblue;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-size: 50px;
+}
+h2{
+	text-align: center;
+	font-size: 35px;
+}
+img{
+	width: 400px;
+	float: center;
+	align-content: center;
+	
+}
+h3 {
+	text-align: left;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+	background-color: white;
+}
+a {
+	color: black;
+	font-size: 30px;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	display: inline-block;
+}
+li {
+  display: inline;
+
+}
+.active {
+  background-color: #4CAF50;
+}
+li a:hover {
+	background-color: darkgrey;
+	color: saddlebrown;
+}
